@@ -55,7 +55,7 @@ a:hover {
 }
 
 .middle-container {
-  background-color: #E4F9F5;
+  background-color: hwb(70 89% 2% / 0.708);
   padding-top: 100px;
 }
 
